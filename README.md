@@ -1,6 +1,6 @@
 ### Hi! I'm Akash 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=KavinduAkash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KavinduAkash&&show_icons=true&title_color=2962ff&icon_color=2962ff&text_color=daf7dc&bg_color=0d1117"/>
 
 <!--
 **KavinduAkash/KavinduAkash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
