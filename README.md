@@ -1,1 +1,1 @@
-<img src="https://kavinduakash.com/assets/mypic.png" title="kaviunduakash" alt="kavinduakash" />
+<img src="https://kavinduakash.com/assets/mypic2.png" title="kaviunduakash" alt="kavinduakash" />
